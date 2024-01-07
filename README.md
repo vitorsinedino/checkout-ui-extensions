@@ -1,3 +1,6 @@
+
+
+
 # Shopify App Template - None (app with extensions only)
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) 
@@ -10,6 +13,11 @@ This app template does little more than install the CLI and scaffold a resposito
 
 ## Getting started
 
+
+## if you got stuck follow the video 
+
+1. This [Video Tutorial](https://youtu.be/6woI-lT1rCM)
+
 ### Requirements
 
 1. You must [download and install Node.js](https://nodejs.org/en/download/) if you don't already have it.
@@ -21,6 +29,10 @@ This app template does little more than install the CLI and scaffold a resposito
 This template can be installed using your preferred package manager:
 
 Using npm:
+
+```shell
+npm i
+```
 
 ```shell
 npm init @shopify/app@latest
